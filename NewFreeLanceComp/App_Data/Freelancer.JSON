@@ -1,0 +1,18 @@
+﻿[
+  {
+    "FreelancerID": 1,
+    "ProfileIDFk": 2,
+    "Login": {
+      "Email": "Freelancetest@test.com",
+      "Phone": "+919976543210",
+      "Pasword": "password"
+    },
+    "Location": "INDIA",
+    "Skils": [
+      "AspDotNet",
+      "Chash",
+      "Angular",
+      "Jquery"
+    ]
+  }
+]

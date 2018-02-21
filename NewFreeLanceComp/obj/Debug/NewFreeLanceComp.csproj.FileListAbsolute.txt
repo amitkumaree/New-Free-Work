@@ -1,0 +1,13 @@
+D:\POC\NewFreeLanceComp\Web\NewFreeLanceComp\bin\NewFreeLanceComp.dll
+D:\POC\NewFreeLanceComp\Web\NewFreeLanceComp\bin\NewFreeLanceComp.pdb
+D:\POC\NewFreeLanceComp\Web\NewFreeLanceComp\bin\Newtonsoft.Json.dll
+D:\POC\NewFreeLanceComp\Web\NewFreeLanceComp\bin\System.Net.Http.Formatting.dll
+D:\POC\NewFreeLanceComp\Web\NewFreeLanceComp\bin\System.Web.Http.dll
+D:\POC\NewFreeLanceComp\Web\NewFreeLanceComp\bin\System.Web.Http.WebHost.dll
+D:\POC\NewFreeLanceComp\Web\NewFreeLanceComp\bin\Newtonsoft.Json.xml
+D:\POC\NewFreeLanceComp\Web\NewFreeLanceComp\bin\System.Net.Http.Formatting.xml
+D:\POC\NewFreeLanceComp\Web\NewFreeLanceComp\bin\System.Web.Http.xml
+D:\POC\NewFreeLanceComp\Web\NewFreeLanceComp\bin\System.Web.Http.WebHost.xml
+D:\POC\NewFreeLanceComp\Web\NewFreeLanceComp\obj\Debug\NewFreeLanceComp.dll
+D:\POC\NewFreeLanceComp\Web\NewFreeLanceComp\obj\Debug\NewFreeLanceComp.pdb
+D:\POC\NewFreeLanceComp\Web\NewFreeLanceComp\obj\Debug\NewFreeLanceComp.csprojResolveAssemblyReference.cache

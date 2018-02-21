@@ -1,0 +1,22 @@
+﻿[
+  {
+    "JobKeyWordID": 1,
+    "JobCategoryID": 1,
+    "JobKeyWords": "Asp.NEt"
+  },
+  {
+    "JobKeyWordID": 2,
+    "JobCategoryID": 1,
+    "JobKeyWords": "Angular"
+  },
+  {
+    "JobKeyWordID": 3,
+    "JobCategoryID": 3,
+    "JobKeyWords": "Logo Design"
+  },
+  {
+    "JobKeyWordID": 4,
+    "JobCategoryID": 3,
+    "JobKeyWords": "Banner Design"
+  }
+]

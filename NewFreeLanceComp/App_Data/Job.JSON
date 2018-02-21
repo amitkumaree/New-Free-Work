@@ -1,0 +1,25 @@
+﻿[
+  {
+    "JobId": 1,
+    "JobCategoryIdFk": 1,
+    "JobBriefDescription": "This is a 1st Job",
+    "JobDescription": "This is a First Job do it immideately",
+    "IsFreelanceSuggestionRequested": false,
+    "HiredFreelancerUserID": 1,
+    "JobKeyWordIDs": [
+      1,
+      2,
+      3
+    ],
+    "Location": "INDIA",
+    "Budget": {
+      "BudgetType": "FixedPrice",
+      "FixedBudgetOptions": "under 100",
+      "JobDuration": null,
+      "HoursPerWeek": null,
+      "MinimumRatePerHour": null,
+      "MaximumRatePerHour": null
+    },
+    "JobApplicationDeadline": "0001-01-01T00:00:00"
+  }
+]

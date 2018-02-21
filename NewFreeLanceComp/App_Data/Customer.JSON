@@ -1,0 +1,11 @@
+﻿[
+  {
+    "CustomerCode": 1,
+    "ProfileIDFk": 1,
+    "Login": {
+      "Email": "test@test.com",
+      "Phone": "+919876543210",
+      "Pasword": "password"
+    }
+  }
+]

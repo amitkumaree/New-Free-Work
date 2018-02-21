@@ -1,0 +1,18 @@
+﻿[
+  {
+    "JobCategoryID": 1,
+    "JobCategories": "Programming"
+  },
+  {
+    "JobCategoryID": 2,
+    "JobCategories": "Photography"
+  },
+  {
+    "JobCategoryID": 3,
+    "JobCategories": "Design"
+  },
+  {
+    "JobCategoryID": 4,
+    "JobCategories": "Writting"
+  }
+]
